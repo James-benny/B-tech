@@ -1,0 +1,22 @@
+nav{
+    background-color: rgba(70, 69, 69, 0.689);
+}
+
+.name{
+    color: rgb(255, 221, 127);
+}
+
+.about{
+    color: black;
+}
+
+.section-5{
+    background-color:  rgb(255, 221, 127);
+}
+
+.Freelancer{
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+}
+
+
