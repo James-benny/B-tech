@@ -31,6 +31,6 @@ function createUser(e) {
             alert("password do not match!!");
         } else {
             console.log(userDetails);
-            window.location.href = 'home.html'
+            window.location.href = 'index.html'
         }
 }
