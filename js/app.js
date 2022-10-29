@@ -19,10 +19,10 @@ function createUser(e) {
     };
 
     if (
-        userDetails.name == "" && userDetails.email == "" 
+        userDetails.name == "" 
     ) {
         alert("input your name");
-    }   else if(userDetails.userEmail === '') {
+    }   else if(userDetails.email === '') {
         alert("add email")
     }   else if(userDetails.password === '') {
         alert("password");
