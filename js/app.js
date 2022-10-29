@@ -19,7 +19,7 @@ function createUser(e) {
     };
 
     if (
-        userDetails.name == "" && userDetails.email == "" && userDetails.password == "" 
+        userDetails.name == "" && userDetails.email == "" 
     ) {
         alert("input your name");
     }   else if(userDetails.userEmail === '') {
